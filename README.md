@@ -1,4 +1,5 @@
 Note: under the [Hotfix game](http://sdrdis.github.com/hotfix/), you can find a styled version of the text below.
+Live Demo: http://shadinachat.github.io/Platformers
 
 ## Description
 
